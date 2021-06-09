@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/toggleDarkJS-demo/static/css/main.5fd1f17b.chunk.css",
+    "main.css": "/toggleDarkJS-demo/static/css/main.96df16a3.chunk.css",
     "main.js": "/toggleDarkJS-demo/static/js/main.fb0995d5.chunk.js",
     "main.js.map": "/toggleDarkJS-demo/static/js/main.fb0995d5.chunk.js.map",
     "runtime-main.js": "/toggleDarkJS-demo/static/js/runtime-main.ead1af12.js",
@@ -8,13 +8,13 @@
     "static/js/2.b4c3c37c.chunk.js": "/toggleDarkJS-demo/static/js/2.b4c3c37c.chunk.js",
     "static/js/2.b4c3c37c.chunk.js.map": "/toggleDarkJS-demo/static/js/2.b4c3c37c.chunk.js.map",
     "index.html": "/toggleDarkJS-demo/index.html",
-    "static/css/main.5fd1f17b.chunk.css.map": "/toggleDarkJS-demo/static/css/main.5fd1f17b.chunk.css.map",
+    "static/css/main.96df16a3.chunk.css.map": "/toggleDarkJS-demo/static/css/main.96df16a3.chunk.css.map",
     "static/js/2.b4c3c37c.chunk.js.LICENSE.txt": "/toggleDarkJS-demo/static/js/2.b4c3c37c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ead1af12.js",
     "static/js/2.b4c3c37c.chunk.js",
-    "static/css/main.5fd1f17b.chunk.css",
+    "static/css/main.96df16a3.chunk.css",
     "static/js/main.fb0995d5.chunk.js"
   ]
 }
